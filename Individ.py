@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def calculate_area(type=0):
     """
     Возвращает функцию для вычисления площади фигуры.
